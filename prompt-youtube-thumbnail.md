@@ -34,3 +34,7 @@ Style: Cinematic, Modern, eye-catching for broad appeal.
 ```
 What is an example of a great Text-to-Image prompt for creating a YouTube thumbnail targeting men ages 20 to 40, who are self-directed investors interested in investing in cryptocurrency? The topic of the youtube video is "_"
 ```
+
+## Other engines
+- DALL-E 2 by OpenAI
+- ImageFX by Google
