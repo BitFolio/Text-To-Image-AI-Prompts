@@ -1,6 +1,5 @@
 ## Favorite models or engines
 - https://designer.microsoft.com/image-creator
-- https://beta.dreamstudio.ai/generate
 
 ## Prompt
 ```
@@ -36,5 +35,6 @@ What is an example of a great Text-to-Image prompt for creating a YouTube thumbn
 ```
 
 ## Other engines
+- https://beta.dreamstudio.ai/generate
 - DALL-E 2 by OpenAI
 - ImageFX by Google
