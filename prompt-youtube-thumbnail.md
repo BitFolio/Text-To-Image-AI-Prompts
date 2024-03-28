@@ -31,7 +31,7 @@ Style: Cinematic, Modern, eye-catching for broad appeal.
 
 ## Prompt
 ```
-What is an example of a great Text-to-Image prompt for creating a YouTube thumbnail targeting men ages 20 to 40, who are self-directed investors interested in investing in cryptocurrency? The topic of the youtube video is "_"
+What is an example of a great Text-to-Image prompt for creating a thumbnail image targeting men ages 20 to 40, who are self-directed investors interested in investing in cryptocurrency? The prompt should be 150 words or less. The topic of the youtube video is "_".
 ```
 
 ## Other engines
